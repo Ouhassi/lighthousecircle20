@@ -55,7 +55,7 @@
 	
 ?>
 
-	<form action="insertion.php" method="post">
+	<form action="index.html" method="post">
 		<fieldset>
 			<legend><b> Vos coordonnées</b></legend>
 			<table>
