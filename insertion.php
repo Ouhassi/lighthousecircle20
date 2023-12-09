@@ -4,7 +4,7 @@
 	<title>Enregistrement des données </title>
 </head>
 <body>
-
+    <h1>Mohamed Ouhassi </h1>
 	<?php
 
 	$bddPDO = new PDO('mysql:host=localhost;dbaname=webtoup','root',"");
