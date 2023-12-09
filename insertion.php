@@ -5,7 +5,7 @@
 </head>
 <body>
     <h1>Mohamed Ouhassi </h1>
-	<a href="pagination.html"</a>
+	<a href="pagination.html"></a>
 	<?php
 
 	$bddPDO = new PDO('mysql:host=localhost;dbaname=webtoup','root',"");
