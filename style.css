@@ -54,3 +54,7 @@ form button{
     margin: 20px auto 0;
     border-radius: 30px;
 }
+
+select option{
+    color: green;
+}
